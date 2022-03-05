@@ -1,4 +1,4 @@
-# MovieBro
+# MoviesBro
 
 # Screenshots
 Search for movies          |  Movies not founded       | Movies Details
